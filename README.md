@@ -13,3 +13,5 @@ diferentes tamanhos de tela, permitindo deixar sites responsivos.
 
 É uma técnica de desenvolvimento onde iremos pensar primeiro no 
 layout para dispositivos menores e depois adaptamos para os maiores.
+
+# https://vwaelectric.github.io/medias-queries/
